@@ -31,5 +31,5 @@ PDF → Text Extraction → Chunking → Embeddings → FAISS → Retrieval → 
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run pdf_rag_bot.py
 ```
